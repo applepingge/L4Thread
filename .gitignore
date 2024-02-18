@@ -1,0 +1,6 @@
+*.pyc
+*.ll
+*.o
+.vscode/
+case.*
+irpy
