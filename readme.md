@@ -1,4 +1,14 @@
-   
+Verifying Env:
+
+ 	Ubuntu 18.04
+
+  	LLVM 5.0/ Clang 5.0
+
+   	Z3 4.5.1.0
+
+    	Python 2.7.0
+
+   	
 verifying a function:	
 
 	make case1
